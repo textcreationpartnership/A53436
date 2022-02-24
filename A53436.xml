@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lawes and orders of vvarre, M. DC. XLIII established for the conduct of the armie designed for the expedition of Vlster.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53436</idno>
+            <idno type="STC">Wing O447A</idno>
+            <idno type="STC">ESTC R41459</idno>
+            <idno type="EEBO-CITATION">31355386</idno>
+            <idno type="OCLC">ocm 31355386</idno>
+            <idno type="VID">110436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1751:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lawes and orders of vvarre, M. DC. XLIII established for the conduct of the armie designed for the expedition of Vlster.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>Castlehaven, James Touchet, Earl of, 1617?-1684.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Bourke, Printer to the Confederate Catholicks,</publisher>
+                  <pubPlace>Printed at Waterford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Signed on p. 11: Castlehaven Avdley.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Regulations.</term>
+               <term>Confederate Catholics.</term>
+               <term>Military law --  Great Britain.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110436:1" rendition="simple:additions"/>
+            <p>LAWES AND ORDERS OF VVARRE. M.DC.XLIII.</p>
+            <p>Eſtabliſhed for the conduct of the Armie de<g ref="char:EOLhyphen"/>ſigned for the expedition of VLSTER.</p>
+            <figure>
+               <head>IN HOC SIGNO VINCES. CASTLEHAVEN AVDLY.</head>
+            </figure>
+            <p>Printed at Waterford by Thomas Bourke, Printer to the Confederate Catholicks of IRELAND 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110436:2"/>
+            <pb facs="tcp:110436:2"/>
+            <head>BY THE GENERALL.</head>
+            <head type="sub">Lawes and Orders of <hi>Warre,</hi> eſtablished for the good Conduct of the Armie deſigned for the <hi>Vlſter</hi> Expedition.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>AMES</hi> Earle of <hi>Caſtle-haven</hi> and <hi>Lord-Audley,</hi> Gene<g ref="char:EOLhyphen"/>nerall of the Army for the <hi>Vlſter</hi> expedition, To the Lieutenant generall. Sergeant-maior Generall, the Colonells, Lieutenant Colonells, Sergeant-maiores, Captaines, and all other Officers and Souldiers of Horſe and Foote in the Army, and to all the Confederate Catho<g ref="char:EOLhyphen"/>licks and others, whom theſe Lawes and Orders enſuing ſhall con<g ref="char:EOLhyphen"/>cerne, which Lawes and Orders hereby publiſhed under my hand, I require all the ſaid perſons reſpectively, and ſeverally in this Ar<g ref="char:EOLhyphen"/>my, or quarters of the Confederate Catholickes of this kingdome, to obſerve and keepe, on the paines and penalties, as by theſe pre<g ref="char:EOLhyphen"/>ſents are expreſſed.</p>
+            <p>
+               <note place="margin">Prayers to be fre<g ref="char:EOLhyphen"/>quented.</note>Firſt, I doe ſtraitly charge and command all Commanders, and Officers of the Army, to ſee that Almighty GOD be duely and re<g ref="char:EOLhyphen"/>verently ſerved, by often frequenting the Sacraments, &amp; daily hea<g ref="char:EOLhyphen"/>ring of Maſſe, And thoſe that often, and wilfully neglect this great good be duely puniſhed.</p>
+            <list>
+               <item>
+                  <note place="margin">Blalphe<g ref="char:EOLhyphen"/>my.</note>2. Let no man ſpeake impiouſly &amp; maliciouſly againſt the Ho<g ref="char:EOLhyphen"/>ly and bleſſed <hi>Trinity,</hi> or any of the Three Perſons, <hi>God the Father, God the Sonne,</hi> and <hi>God the Holy Ghoſt,</hi>
+                  <note place="margin">Hereſie.</note> or againſt the knowne Articles of the Catholicke Faith, upon paine of death.</item>
+               <item>
+                  <note place="margin">Profa<g ref="char:EOLhyphen"/>nation.</note>3. No man ſhall take <hi>Gods</hi> holy name in vaine, or uſe unlawfull Oaths or Execrations <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r commit any ſcandalous act to the deroga<g ref="char:EOLhyphen"/>tion of Gods honour, upon paine of the loſſe of his pay, impriſon<g ref="char:EOLhyphen"/>ment, and ſuch further puniſhment, as a Marſhall Courtſhall thinke his offence deſerves.</item>
+               <item>
+                  <note place="margin">Trayte<g ref="char:EOLhyphen"/>rous words. Diſobe<g ref="char:EOLhyphen"/>dience to Comma<g ref="char:cmbAbbrStroke">̄</g>ders.</note>4. No man ſhall uſe any Trayterous words againſt his Maieſties ſacred Perſon, or Royall Authority, upon paine of death.</item>
+               <item>5. No man ſhall ſpeake, or practiſe any thing to the diſhonour or deſtruction of the Supreame Councell of the Confederate Catho<g ref="char:EOLhyphen"/>lickes of <hi>Ireland,</hi> on paine of death.</item>
+               <pb n="4" facs="tcp:110436:3"/>
+               <item>
+                  <note place="margin">Diſobe<g ref="char:EOLhyphen"/>dience to Com<g ref="char:EOLhyphen"/>manders. Mutiny Not re<g ref="char:EOLhyphen"/>pairing to the Rendez<g ref="char:EOLhyphen"/>vous. Extorti<g ref="char:EOLhyphen"/>on, &amp;c. upon a March.</note>6. No man ſhall offer any violence againſt, or contemptuouſly diſobey his Commander, or doe any act, or ſpeak any words which are like to breed any Mutiny in the Army, or Garriſon, or impeach the Generall, Lieutenant Generall, or principall Officers directions on paine of death.</item>
+               <item>7. No man ſhall wilfully, or thorow groſſe ignorance, fayle in comming to the Rendezvous, or Garriſon aſſigned to him by the Generall, or other principall Officer, that commands the Army, up<g ref="char:EOLhyphen"/>on paine of death.</item>
+               <item>8. No Captaine, Officer, or Souldier, of Troope, or Company, on their March thorow any Countrey within our quarters, or which ſhalbe in peace or Ceſſation with us going to any Garriſon, or place of Service, ſhall upon any pretence of want whatſoever, commit any waſte, ſpoyle, or violence, or extort any victuals, Mony or pawne in liew of victuals, from any good ſubiect whatſoever, but ſhall content themſelves with meat and drinke competent, pay<g ref="char:EOLhyphen"/>ing the uſuall &amp; accuſtomed Rates for the ſame, upon paine of death. But, if in time of open action, by occaſion of any March thorow the Countrey the Souldier ſhalbe in want, then the Officer, ſhall ſeeke and provide ſuch diet and lodging for them as ſhalbe thought fit, at reaſonable Rates heretofore accuſtomed, for the which, the Cap<g ref="char:EOLhyphen"/>taine or Officer, ſhall give ready Mony, or for want thereof deliver his Ticket, to be ſatisfied upon his Entertaynment.</item>
+               <item>
+                  <note place="margin">Perſons not in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olled in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Ar<g ref="char:EOLhyphen"/>my. Not re<g ref="char:EOLhyphen"/>pairing to the Colours. Holding Intelli<g ref="char:EOLhyphen"/>gence with, or Relie<g ref="char:EOLhyphen"/>ving the Enemie.</note>9. No man that carries Armes, or pretends to be a Souldier, ſhall remayne three dayes in the Army, after it is on foote, except hee bee inrolled in ſome Company, on paine of death.</item>
+               <item>10. No man ſhall fayle immediately to repayre unto his Colours (except upon evident neceſſity) when an Allarme is given, upon paine of death.</item>
+               <item>11. No Officer or Souldier whatſoever ſhall have conference or Intelligence with any enemy, or Rebell, that is in open action a<g ref="char:EOLhyphen"/>gainſt his Maieſty, or the Confederate Catholickes, or harbour, or receive any ſuch within the Campe, or in any Towne, Fort, Caſtle or Garriſon, or ſhall ſend, or procure to be ſent, any victuall, Ammu<g ref="char:EOLhyphen"/>nition, or other reliefe to any Enemy, or Rebell in action; Neyther ſhall doe any other thing to the danger, or prejudice of the Armie; or being acquainted therewith, ſhall conceale the ſame from the chiefe Officer, upon paine of death: Onely ſuch as ſhall be avowed, and warranted thereunto by me, or thoſe that command the Army-in
+<pb n="5" facs="tcp:110436:3"/>my abſence, may ſpeake, conferre, have Intelligence,<note place="margin">Revol<g ref="char:EOLhyphen"/>ting to the Ene<g ref="char:EOLhyphen"/>my. Depar<g ref="char:EOLhyphen"/>ting fro<g ref="char:cmbAbbrStroke">̄</g> captaine. Entring, or going out of the Campe by unu<g ref="char:EOLhyphen"/>ſuall wayes. Watch-word. Sentinell &amp; watch. Drawing ſword af<g ref="char:EOLhyphen"/>ter the watch ſet Falſe A<g ref="char:EOLhyphen"/>larme or Noyſe in the night. Murther or private quarrell. Officers of the Watch ſuffering Duells. ſeditious words. Vnlaw<g ref="char:EOLhyphen"/>full aſ<g ref="char:EOLhyphen"/>ſembly. Mutinous demand of Pay. Abuſe to bringers in, of Vi<g ref="char:EOLhyphen"/>ctuall.</note> or converſe with the enemy, or rebell, for the advantage of his Maieſties ſer<g ref="char:EOLhyphen"/>vice.</item>
+               <item>12. No man ſhall runne to the Enemy, or Rebell, that is in acti<g ref="char:EOLhyphen"/>on, or depart the Army, from the Garriſon, or Colours, without li<g ref="char:EOLhyphen"/>cence, upon paine of death.</item>
+               <item>13. No Souldier ſhall depart from his Captaine without licence, though he ſerve ſtill in the Army, upon paine of death.</item>
+               <item>14. No man ſhall enter, or goe out of the Army, or Garriſon, but by ordinary wayes, upon paine of death.</item>
+               <item>15. No man ſhall make knowne the <hi>watch-word</hi> to the Enemie, or any other, but by Order, nor give any <hi>VVord,</hi> other than is given by the Officer, on paine of death.</item>
+               <item>16. No man being ſet Sentinell by his Officer, ſhall ſleepe, de<g ref="char:EOLhyphen"/>part, or forſake his place, without being Relieved, or drawne of by the Officer that placed him; Nor any other perſon being placed up<g ref="char:EOLhyphen"/>on his <hi>watch,</hi> ſhall neglect his duty commanded by his Officer, up<g ref="char:EOLhyphen"/>on paine of death.</item>
+               <item>17. No man ſhall preſume to draw his Sword, without Order, after the watch is ſet, upon paine of death.</item>
+               <item>18. No man ſhall give a falſe Alarme, or diſcharge a piece in the night, or make any noiſe without lawfull cauſe upon paine of death</item>
+               <item>19. No man ſhall commit any Murther, or kill any perſon, or draw bloud of any, or draw Sword in private quarrell, with intent to offer violence within the Campe, or Garriſon, upon paine of death.</item>
+               <item>20. No Corporall, or other Officer, commanding the Watch, ſhall wittingly ſuffer a Souldier to goe forth to private fight, upon paine of death.</item>
+               <item>21. No perſon ſhall rehearſe ſeditious words in the preſence of private Souldiers without Order, upon paine of death.</item>
+               <item>22. No perſons ſhall make any unlawfull aſſembly, or be preſent or aſſiſting thereunto, upon paine of death.</item>
+               <item>23. No man ſhall demand Money, with an unlawfull aſſembly, or by other way, tending to Mutiny, more eſpecially, upon March<g ref="char:EOLhyphen"/>ing towards an Enemy, or upon the execution of any Enterprize, on paine of death.</item>
+               <item>24. No man ſhall outrage, or doe any violence to any that come to bring victuals to the Army, or Garriſon, upon paine of death.</item>
+               <pb n="6" facs="tcp:110436:4"/>
+               <item>
+                  <note place="margin">Deceit in Victuall, or Amu<g ref="char:EOLhyphen"/>nition.</note>25. No providor, keeper, or Officer of the Confederate Catho<g ref="char:EOLhyphen"/>lickes victuall, or Ammunition ſhall wilfully corrupt, or imbeazell any part thereof, or give any falſe account to the Generall, with a purpoſe to deceive the Confederate Catholickes, or to hinder the ſervice, upon paine of death.</item>
+               <item>26. No Souldier in Muſters ſhall anſwer for another,<note place="margin">Falſe Mu<g ref="char:EOLhyphen"/>ſter.</note> or take two payes, or Muſter in a falſe name to defraud his Maieſty, upon paine of death.</item>
+               <item>
+                  <note place="margin">Spoyle, or ſale of Ammu<g ref="char:EOLhyphen"/>nition. Selling, or pawn<g ref="char:EOLhyphen"/>ing of Armes. Robbery, or ſtealth. Betray<g ref="char:EOLhyphen"/>ing Ca<g ref="char:EOLhyphen"/>ſtles, forts &amp;c. Flying from Co<g ref="char:EOLhyphen"/>lours &amp;c. Depar<g ref="char:EOLhyphen"/>ting a mile from the Army. Breach of Order in Chaſe, &amp;c. Purloyn<g ref="char:EOLhyphen"/>ing of Prey, or Spoyle. Ranſom<g ref="char:EOLhyphen"/>ing of Priſo<g ref="char:EOLhyphen"/>ners.</note>27. No perſon ſhall ſell, ſpoyle, or carry away any Ammunition, upon paine of death.</item>
+               <item>28. No So<g ref="char:cmbAbbrStroke">̄</g>uldier ſhall ſell, or lay to pawne his Horſe, or Hackny or any part of his Furniture, Armes, or Apparell, for any reſpect, or pretence of want whatſoever, upon paine of death.</item>
+               <item>29. No man ſhall ſteale, or take by force any Treaſure, victuall, or Ammunition of his Maieſties; or take by force, or ſteale from any perſon, any Money, Armes, apparell, or other goods, being above the value of xij. d. in Marching, campe, or garriſon, upon paine of death.</item>
+               <item>30. No man ſhall deliver any Towne, Caſtle, Fort, or Sconce, without warrant; Or depart from any ſtrait, or paſſage, which hee is commanded to make good; or take paſport of the Enemy, or any Re<g ref="char:EOLhyphen"/>bell in action, or make any ignominious compoſition with the Ene<g ref="char:EOLhyphen"/>my, or Rebell in action, upon paine of death.</item>
+               <item>31. No man ſhall throw away his Armes, or abandon his Enſigne, Cornet, or Guidon, or fly away in any Battaile, or Skirmiſh, upon paine of death:</item>
+               <item>32. No man ſhall depart a mile out of the Army, or Campe, without licence, upon paine of death.</item>
+               <item>33. No Souldier ſhall breake his Order, to follow rout, or chaſe or to ſeeke any prey, or ſpoyle, except he be commanded by ſuch as have authority, or further then he is ſo commanded, upon paine of death.</item>
+               <item>34. No Officer or Souldier, whenſoever any prey, or ſpoyle ſhal be taken from the enemy, eyther when the Army is in the field, or by any reſiding in the Garriſon ſhall attempt to imbeazell, or pur<g ref="char:EOLhyphen"/>loyne any part thereof, but ſhall endeavour themſelves to the utter<g ref="char:EOLhyphen"/>moſt of their powers, to keepe the ſame together, to be diſpoſed at the direction of me the Generall, or any other by me thereunto au<g ref="char:EOLhyphen"/>thorized, upon paine of death.</item>
+               <item>35. No Captaine, Officer, or Souldier, or any other that ſhall
+<pb n="7" facs="tcp:110436:4"/>take any priſoner, ſhall preſume to deliver him upon any Ranſome, or conceale him, but within foure and twenty houres, he ſhall make the ſame knowne unto me, or other chiefe Commander, and deli<g ref="char:EOLhyphen"/>ver the ſame priſoner under the charge of the Provoſt Marſhall, up<g ref="char:EOLhyphen"/>on paine of death.</item>
+               <item>36. No man ſhall Raviſh,<note place="margin">Rape.</note> or Force any woman upon paine of death.</item>
+               <item>
+                  <note place="margin">Burning of houſes Corne, &amp;c.</note>37. No Souldier ſhall burne any houſe, or lodging, or burne, or wilfully ſpoyle any Corne, Ship, or Boate, or Carriage, or any other thing that may ſerve for the Proviſion of the Army or his Garriſon, without he be commanded ſo to doe by me, or ſome principall Offi<g ref="char:EOLhyphen"/>cer of the Armie, upon paine of death.</item>
+               <item>
+                  <note place="margin">Reſiſting Provoſt Marſhals or other Officers. Breaking of pri<g ref="char:EOLhyphen"/>ſon. Adulte<g ref="char:EOLhyphen"/>ry. violence.</note>38. No man ſhall reſiſt, or offend any provoſt Marſhall, or other Officer in the execution of his office, by reſcuing offenders, upon paine of death.</item>
+               <item>39 No man that is committed, ſhall breake Priſon, upon paine of death.</item>
+               <item>40. No man ſhall commit adultery or fornication, upon paine of impriſonment, baniſhment from the Army, or ſuch other penalty, as by the Marſhals Court ſhall be thought meete.</item>
+               <item>41. No man ſhall beate, threaten, or diſhoneſtly touch any man, woman or Child, upon paine of puniſhment, according to the qua<g ref="char:EOLhyphen"/>litie of the offence.</item>
+               <item>42. No Souldier ſerving-on foote, ſhall carry any Boy, nor any woman ſhall be ſuffered to follow the army,<note place="margin">Boyes, or women.</note> upon paine of ſuch puniſhment, as ſhall be inflicted by me the Lieutenant Generall, or other officer.</item>
+               <item>43. Every Souldier or Officer that ſhall be found drunke ſhall be committed to priſon for the firſt offence,<note place="margin">Drun<g ref="char:EOLhyphen"/>kenneſſe.</note> and if he fall into it the ſe<g ref="char:EOLhyphen"/>cond time, being a private Souldier, hee ſhall beſides his impriſon<g ref="char:EOLhyphen"/>ment forfeyte two months pay: If hee be an Officer hee ſhall looſe his place. The third time a common-ſouldier ſhall have ſuch grea<g ref="char:EOLhyphen"/>ter puniſhment, as a Marſhall Court ſhall order.</item>
+               <item>
+                  <note place="margin">Affronts &amp; Chal<g ref="char:EOLhyphen"/>lenges.</note>44. No man ſhall give any diſgracefull words, or commit any act to the diſgrace of any perſon in the Army, Garriſon or any part thereof, upon paine of impriſonment, publike diſarming, &amp; baniſh<g ref="char:EOLhyphen"/>ment from the Army, as men for ever diſabled to carry any Armes. And as I doe forbid all men under my command to renew any old quarels or to begin any new; ſo I doe acquite and diſcharge all men
+<pb n="8" facs="tcp:110436:5"/>that have quarrels offered or challenge made to them, of all diſgrace or opinion of any diſadvantage, ſince they doe but the duties of Souldiers, which ought to ſubiect themſelves to Marſhall diſcipline. And they that provoke them, ſhalbe proceeded withall, as breakers of all good diſcipline, &amp; enemies to the good ſucceſſe of the ſervice.</item>
+               <item>
+                  <note place="margin">Weake Compa<g ref="char:EOLhyphen"/>nies. Deceit in Muſter.</note>45. No Captaine ſhall through corruption, or wilfull or groſſe negligence ſuffer his company to grow weake upon paine of impri<g ref="char:EOLhyphen"/>ſonme<g ref="char:cmbAbbrStroke">̄</g>t, loſſe of his place, &amp; ignominious baniſhment from the army.</item>
+               <item>46. No Captaine, Lieutenant, or other Officer of the Army, ſhal in the Tender, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>preſentme<g ref="char:cmbAbbrStroke">̄</g>t of their Muſters uſe any fraud, practiſe, or deceit whereby the Muſter-Maſter, his Deputies, or the Commiſ<g ref="char:EOLhyphen"/>ſaries may be miſled, miſtaken, or prevented of the due underſtan<g ref="char:EOLhyphen"/>ding of the true eſtate of that company, upon paine of loſſe of his place, and ſuch other ignominious puniſhment, as by a Marſhals Court ſhall be thought meete.</item>
+               <item>
+                  <note place="margin">Vnequall cheques.</note>47. No Muſter-Maſter ſhall eyther for favour, friendſhip, or other by reſpect whatſoever, impoſe a leſſe or greater Checke upon any Captaine or Officer, then his default ſhall juſtly merit, or any Check at all, where no defect, or default ſhall appeare upon due view taken of the company;<note place="margin">Cheques without view.</note> and that no Check ſhalbe impoſed by diſcretion with out view, upon paine that every offender, who ſhall be found to tranſgreſſe in all, or any part of this article, ſhall forfeyte his place which he holdeth, and be further ſubiect to ſuch corporall, or pecu<g ref="char:EOLhyphen"/>niary puniſhment, as by the diſcretion of a Marſhall Court ſhall be thought convenient.</item>
+               <item>
+                  <note place="margin">Defects certified, not Sup<g ref="char:EOLhyphen"/>plyed.</note>48. Every Cataine ſhall have a liſt of all the defaults in Appa<g ref="char:EOLhyphen"/>rell, Armes or trayning certified by the Muſter-Maſter, or the Com<g ref="char:EOLhyphen"/>miſſaries authorized for Muſters ſent unto him, atteſted under their hands; whereupon the ſaid Captaine ſhall preſently take Order, that the ſame be fully ſupplied, before the Muſter then next enſuing ſuch notice given him thereof; and every Captaine ſayling in his duty herein, ſhall for the firſt neglect have one moneths pay defal<g ref="char:EOLhyphen"/>ked out of his entertaynment, And if he continue the ſaid neglect with out amending, and ſupplying the ſame, he ſhall be diſcharged of his place and command.</item>
+               <item>
+                  <note place="margin">Neglect in Tray<g ref="char:EOLhyphen"/>ning.</note>49. All Captaines shall be diligent in Trayning their Compa<g ref="char:EOLhyphen"/>nies, and shall be carefull in governing them well, and in providing for them according to the orders publiſhed for the Muſters; and alſo ſhall ſee in all ſervices, that they doe the duties of Souldiers, as they
+<pb n="9" facs="tcp:110436:5"/>will hope for favour or advancement, or eſcape ignominious diſ<g ref="char:EOLhyphen"/>charging from their charges.</item>
+               <item>
+                  <note place="margin">Armes Vn-Fixt.</note>50 No Souldier ſhall appeare with his Armes unfixt, or unde<g ref="char:EOLhyphen"/>cently kept, upon paine of puniſhment according to the Officers good diſcretion.</item>
+               <item>
+                  <note place="margin">Defect of Armes.</note>51. No Souldier ſhall come, not fully armed to his Colours, be<g ref="char:EOLhyphen"/>ing to watch, or to be exerciſed, upon paine of being puniſhed, ac<g ref="char:EOLhyphen"/>cording to diſcretion.</item>
+               <item>
+                  <note place="margin">Non-Re<g ref="char:EOLhyphen"/>ſidence in Garri<g ref="char:EOLhyphen"/>ſon. Orderly Quarters</note>52. No Captaine, or Officer ſhall without expreſſe licence in that behalfe ſignified, remayne or abide forth of his place, aſſigned unto him by me for his Garriſon, upon paine of death.</item>
+               <item>53. All Captaines, or other Officers, that for the time ſhall have command of Troope or Company, ſhall ſee them orderly quartered as they are appointed, and as they are commanded, upon paine of the loſſe of their places.</item>
+               <item>54. Everie private man and Souldier,<note place="margin">Silence.</note> upon paine of impriſon<g ref="char:EOLhyphen"/>ment ſhall keepe ſilence, when the Army is to take lodging, or when it is Marching or Imbattailling, ſo as the Officers may be heard and their commandements executed.</item>
+               <item>
+                  <note place="margin">Goods of the dead.</note>55. No man ſhall ſpoyle, or take the goods of any that dieth, or is killed in the ſervice, upon paine of reſtoring double the value, but the goods of ſuch as die in the Army or Garriſon, if they make any will by word or writing, ſhalbe diſpoſed of, according to their will. If they make no will; ſhalbe diſtributed to the hurt, ſicke, and poore, of the Company whereof the Souldier was, or ſhall goe to the Ho<g ref="char:EOLhyphen"/>ſpitall of the Army.</item>
+               <item>
+                  <note place="margin">Buying, or taking to pawne of armes.</note>56. No inhabitant in Towne or Countrey, ſhall preſume to buy or take to pawne, any Horſe, or Hackney of any Souldier, or any part of his Furniture, Armes, or apparell, for any reſpect or pretence whatſoever, upon paine of forfeyting the double value thereof, and to ſuffer impriſonment, untill he ſhall reſtore the goods ſo unduely Bought, or taken to Pawne.</item>
+               <item>
+                  <note place="margin">Looſing of Armes by Negli<g ref="char:EOLhyphen"/>gence.</note>57. If any Horſeman ſhall looſe his Horſe or Hackney; or Foot<g ref="char:EOLhyphen"/>man, any part of his Armes, by negligence, or lewdneſſe, whereby he ſhall be unable to diſcharge the duty of his place, then untill hee ſhall recover the ſame, or furniſh himſelfe with as good, he ſhall re<g ref="char:EOLhyphen"/>mayne in the ſtate and condition of a Pioner, or ſuſtaine further pu<g ref="char:EOLhyphen"/>niſhment
+<pb n="10" facs="tcp:110436:6"/>at my diſcretion, or other Officer thereunto authrized.</item>
+               <item>
+                  <note place="margin">Vnwhol<g ref="char:EOLhyphen"/>ſome V<g ref="char:EOLunhyphen"/>ctualls. Vnſeaſo<g ref="char:EOLunhyphen"/>nable <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oures at Victual<g ref="char:EOLhyphen"/>ing hou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es. Souldiers not to be Victual<g ref="char:EOLhyphen"/>lers. Captains not to give Paſport. Caſheer<g ref="char:EOLhyphen"/>ing of Souldiers Enter<g ref="char:EOLhyphen"/>taining Run a<g ref="char:EOLhyphen"/>wayes.</note>58. No victualler ſhall preſume to iſſue, or ſell unto any of the Army, unſound, unſavoury, or unwholeſome victuals, upon paine of impriſonment, and ſuch other puniſhment, as by a Marſhall Court ſhalbe thought fit to be impoſed on him, or them that ſhall ſo offend.</item>
+               <item>59. No victualler ſhall entertayne Souldiers at unſeaſonable houres, upon paine of being ſeverely puniſhed.</item>
+               <item>60. No Souldier ſhall be a victualler without the conſent of the chiefe of the Army, on paine of puniſhment according to diſ<g ref="char:EOLhyphen"/>cretion.</item>
+               <item>61. No Captaine ſhall give Paſport to any Officer or Souldier under his command without my leave.</item>
+               <item>62. No Captaine or other Officer of the Army ſhall diſcharge, or Cashier any Souldier entred in his Maieſties Liſt of this his Ar<g ref="char:EOLhyphen"/>my without my privity and allowance, and my ſpeciall warrant in that behalfe: unleſſe it be by the privitie and allowance of the Officers of the Muſters, upon the publike dayes of Muſter.</item>
+               <item>63. No inhabitant of Citie Towne, or countrey ſhall preſume to receive any Souldier into their ſervice, no having a ſufficient au<g ref="char:EOLhyphen"/>thority, neyther shall any conceale, or hide any ſuch run-away, or uſe meanes to convey them out of the kingdome, or to any other ſecret place, but ſhall apprehend all ſuch, and deliver them ever to the Provoſt Marſhall, upon paine of impriſonment, as ſhall be thought fit by the chiefe commander to be inflicted.</item>
+               <item>
+                  <note place="margin">Dete<g ref="char:EOLhyphen"/>cting, &amp;c. of Offen<g ref="char:EOLhyphen"/>ders.</note>64. All Captaines, Officers, and Souldiers, ſhall doe their in<g ref="char:EOLhyphen"/>deavours to Detect, Apprehend, and bring to puniſhment all Offen<g ref="char:EOLhyphen"/>ders, and ſhall aſſiſt the Officers of the Army for that purpoſe, as they will anſwer their Slackneſſe, and be cenſured in the Marſhals Court.</item>
+               <item>65. All other Faults, Diſorders, and Offences, that are not mentioned in theſe Articles,<note place="margin">Faults in generall, provided againſt.</note> ſhall be puniſhed according to the Ge<g ref="char:EOLhyphen"/>nerall cuſtomes; and Lawes of Warre; and therefore it is by me com<g ref="char:EOLhyphen"/>manded, that all men looke to their charge, and he that hath no charge, to looke to his owne carriage, as he will anſwer the con<g ref="char:EOLhyphen"/>trary.</item>
+               <item>66. Finally, the Lieutenant Generall of the Army, Sergeant Major Generall, the Colonells, Captaines, and all other officers of
+<pb n="11" facs="tcp:110436:6"/>the Confederate Catholicks within this Kingdome, whome it may concerne, are hereby required to obſerve theſe Lawes, and to ſee them put in due execution from time to time.</item>
+            </list>
+            <p>Theſe Lawes and Orders I require every Captaine in the Army to cauſe to be read in the head of their ſeverall Companies forth<g ref="char:EOLhyphen"/>with, and the chiefe Officer of every Regiment are required to ſee to the carefull performance and obſervation aſwell of this Directi<g ref="char:EOLhyphen"/>on, as of all the ſaid Lawes and Orders.</p>
+            <closer>
+               <signed>CASTLEHAVEN AVDLY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
